@@ -49,3 +49,22 @@ body{
     text-align: center;
     margin-top: 50px;
 }
+#final-donate-now{
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    color: white;
+    font-weight: 700;
+    padding: 10px 40px;
+    border-radius: 10px;
+}
+#margin-align{
+    text-align: center;
+    margin-top: 50px;
+}
+#our-donate-plan{
+    text-align: center;
+    margin-top: 150px;
+}
+#font-weight{
+    font-weight: bold;
+}
