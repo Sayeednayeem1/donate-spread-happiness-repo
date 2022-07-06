@@ -142,3 +142,11 @@ body{
     margin: 10px;
     border-radius: 10px;
 }
+#footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+#be-humble{
+    color: palevioletred;
+}
