@@ -14,4 +14,17 @@ body{
 }
 .donate-now-link{
     text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    color: white;
+    font-weight: 700;
+    padding: 10px 40px;
+    border-radius: 5px;
+}
+.donate-today{
+    text-align: center;
+    font-weight: 700;
+    margin-top: 100px;
+}
+.first-section{
+    display: flex;
 }
