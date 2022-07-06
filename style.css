@@ -32,8 +32,8 @@ body{
 .donate-tk{
     width: 100px;
     height: 100px;
-    background: grey;
-    color: white;
+    background-color: #EDF5F7;
+    color: gray;
     font-size: 10pxpx;
     text-align: center;
     border-radius: 5px;
@@ -83,4 +83,16 @@ body{
     padding: 10px 40px;
     margin: 10px;
     border-radius: 10px;
+}
+#food{
+    background-color: #EDF5F7;
+    color: black;
+}
+#shelter{
+    background-color: #FEEEEE;
+    color: black;
+}
+#education{
+    background-color: #FFF4D6;
+    color: black;
 }
