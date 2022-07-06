@@ -77,22 +77,27 @@ body{
 }
 .class-food-education-shelter{
     text-decoration: none;
-    background-color: aqua;
     color: white;
     font-weight: 700;
-    padding: 10px 40px;
+    padding: 30px 40px;
     margin: 10px;
     border-radius: 10px;
 }
 #food{
+    background-image: url(icons/food.png);
+    background-repeat: no-repeat;
     background-color: #EDF5F7;
     color: black;
 }
 #shelter{
+    background-image: url(icons/shelter.png);
+    background-repeat: no-repeat;
     background-color: #FEEEEE;
     color: black;
 }
 #education{
+    background-image: url(icons/Frame-1.png);
+    background-repeat: no-repeat;
     background-color: #FFF4D6;
     color: black;
 }
