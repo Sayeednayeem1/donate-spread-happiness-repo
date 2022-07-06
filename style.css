@@ -118,3 +118,27 @@ body{
     margin: 10px;
     border-radius: 10px;
 }
+.get-my-updates{
+    text-align: center;
+}
+.last-heading{
+    font-weight: 700;
+}
+.button-input{
+    background-color: #FEEEEE;
+    width: 800px;
+    height: 100px;
+    margin:0 auto;
+}
+#test{
+    text-align: center;
+    padding-top: 20px;
+}
+#subscribe{
+    background-image: linear-gradient(orange, tomato);
+    color: white;
+    font-weight: 700;
+    padding: 10px 40px;
+    margin: 10px;
+    border-radius: 10px;
+}
