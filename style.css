@@ -1,7 +1,17 @@
 body{
     font-family: 'Poppins', sans-serif;
-    color: black;
 }
-.front-page-style{
+.background-image{
+    background-image: url(images/donation13.jpg);
+    padding: 150px 100px;
+    background-size: cover;
+    background-position: center;
+}
+.text-align{
+    color: white;
+    font-weight: 700;
     text-align: center;
+}
+.donate-now-link{
+    text-decoration: none;
 }
